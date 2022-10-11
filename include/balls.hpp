@@ -1,3 +1,11 @@
+/*
+ * rng.hpp
+ *
+ *  Created on: 11 paź 2022
+ *      Author: robko
+ */
+
+
 #ifndef SFML_TEST_BALLS_HPP_
 #define SFML_TEST_BALLS_HPP_
 
